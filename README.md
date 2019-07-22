@@ -1,0 +1,2 @@
+# ejercicioCurso
+Este es un repo de prueba
